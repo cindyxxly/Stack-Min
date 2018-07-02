@@ -1,4 +1,4 @@
-
+// Writer: Cindy Li
 public class StackMin {
 	Node top;
 	int data;
